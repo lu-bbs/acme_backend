@@ -1,0 +1,23 @@
+{
+    "name": "lu-bbs/acme_backend",
+    "authors": [
+        {
+            "name": "Ludovic Floch",
+            "email": "ludovic.floch@big-boss-studio.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/lu-bbs/acme_kernel.git"
+        }
+    ],
+    "require": {
+        "lu-bbs/acme_kernel": "dev-main"
+    },
+    "autoload": {
+        "psr-4": {
+            "LuBbs\\": "src/"
+        }
+    }
+}
