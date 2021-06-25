@@ -4,15 +4,15 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "095aadc9de6964e011ca41f291c885d2",
+    "content-hash": "bc49bf43aac3d60e66e175af1bb217da",
     "packages": [
         {
             "name": "lu-bbs/acme_kernel",
-            "version": "dev-main",
+            "version": "dev-release/2.0.0",
             "dist": {
                 "type": "path",
                 "url": "../acme_kernel",
-                "reference": "f9e8b90d786ceb01296190863bddc461d8fac485"
+                "reference": "ae600ae37b0fe52b85fd2b30ff1832cbd3065e1d"
             },
             "type": "library",
             "autoload": {
